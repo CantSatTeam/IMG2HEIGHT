@@ -19,10 +19,15 @@ runs/
 *.log
 outputs/
 
-# Dataset files (usually large)
-data/
-datasets/
-
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Data
+data/
+datasets/
+D_data/
+*.tif
+*.tiff
+*.jp2
+*.zip
