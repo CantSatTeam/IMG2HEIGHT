@@ -29,7 +29,7 @@ RGB_BANDS = ["B4", "B3", "B2"]  # R, G, B
 MINN = 0
 MAXX = 3000
 
-SCALE = 250  # meters per pixel for download (bigger = smaller file)
+SCALE = 2  # meters per pixel for download (bigger = smaller file)
 
 FILTER_START = "2023-06-01"
 FILTER_END = "2023-09-01"
